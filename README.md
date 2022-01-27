@@ -4,7 +4,7 @@
   </h1>
 </div>
 <h3 align='center'>
-  Fullstack Developer
+  Computer Engineer
   <img src='' width=10 height=1/>
   <a href="https://www.linkedin.com/in/henriq-dev/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
