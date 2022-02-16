@@ -39,9 +39,7 @@
   Frameworks
 </h3>
 <div align='center' style='padding: 20'>
-  <img src='https://cdn.svgporn.com/logos/rails.svg' height=35/>  
-  <img src='' width=10 height=1/>
-  <img src='https://cdn.svgporn.com/logos/spring.svg' height=35/>
+  <img src='https://cdn.svgporn.com/logos/rails.svg' height=35/>      
   <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/flutter.svg' height=35/>
 </div>
@@ -77,6 +75,8 @@
   <img src='https://cdn.svgporn.com/logos/c-plusplus.svg' height=35/>  
   <img src='' width=10 height=1/>
   <img src='https://cdn2.unrealengine.com/ue-horizontal-logo-cba14ebde1ea.svg?resize=1&w=440&quality=high' height=35/>    
+  <img src='' width=10 height=1/>
+  <img src='https://cdn.svgporn.com/logos/spring.svg' height=35/>
 </div>
 
 <h3 align='center'>
