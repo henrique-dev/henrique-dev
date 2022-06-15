@@ -139,7 +139,7 @@
 				<h2>Computer Engineer</h2>
 				<div class="ctn-media-socials fade-in">
 				  <a href="https://www.linkedin.com/in/henriq-dev" rel="nofollow noreferrer">
-				    <img width="30" height="30" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="linkedin"/>
+				    <image width="30" height="30" xlink:href="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="linkedin"/>
 				  </a>
 				  <a href="mailto:henrique.phgb@gmail.com" rel="nofollow noreferrer">
 				    <img width="30" height="30" src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="linkedin"/>
