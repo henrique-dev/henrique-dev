@@ -23,8 +23,7 @@
   Favorite Editor
 </h3>
 <div align='center'>
-  <img src='https://cdn.svgporn.com/logos/visual-studio-code.svg' height=35/>
-  <p><code>VS Code</code></p>
+  <img src='https://cdn.svgporn.com/logos/visual-studio-code.svg' height=35/>  
 </div>
 
 <h3 align='center'>
