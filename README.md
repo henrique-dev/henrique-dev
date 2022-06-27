@@ -17,6 +17,12 @@
   I have facilities to learn new technologies, and I also always keep up to date on the entire professional context around me.
 </p>
 
+<div align="center">
+  <a href="https://github.com/nathallyet"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-dev&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
 ---
 
 <h3 align='center'>
