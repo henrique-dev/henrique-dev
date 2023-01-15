@@ -30,12 +30,16 @@
 </h3>
 <div align='center'>
   <img src='https://cdn.svgporn.com/logos/visual-studio-code.svg' height=35/>  
+  <img src='' width=10 height=1/>
+  <img src='https://cdn.svgporn.com/logos/rider.svg' height=35/>  
 </div>
 
 <h3 align='center'>
   Languages
 </h3>
 <div align='center'>
+  <img src='https://cdn.svgporn.com/logos/c-plusplus.svg' height=35/>  
+  <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/java.svg' height=35/>  
   <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/ruby.svg' height=35/>
@@ -59,6 +63,8 @@
   <img src='https://cdn.svgporn.com/logos/mongodb.svg' height=35/>  
   <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/mysql.svg' height=35/>    
+  <img src='' width=10 height=1/>
+  <img src='https://cdn.svgporn.com/logos/postgresql.svg' height=35/>    
 </div>
 
 <h3 align='center'>
@@ -74,6 +80,8 @@
   <img src='https://cdn.svgporn.com/logos/gitlab.svg' height=35/>
   <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/postman.svg' height=35/>
+  <img src='' width=10 height=1/>
+  <img src='https://cdn.svgporn.com/logos/swagger.svg' height=35/>
 </div>
 
 ---
@@ -82,18 +90,16 @@
   Currently Studying
 </h3>
 <div align='center' style='padding: 20'>
-  <img src='https://cdn.svgporn.com/logos/c-plusplus.svg' height=35/>  
+  <img src='https://cdn.svgporn.com/logos/blender.svg' height=35/>  
   <img src='' width=10 height=1/>
-  <img src='https://cdn2.unrealengine.com/ue-horizontal-logo-cba14ebde1ea.svg?resize=1&w=440&quality=high' height=35/>      
-  <img src='' width=10 height=1/>
-  <img src='https://cdn.svgporn.com/logos/react.svg' height=35/>  
+  <img src='https://cdn2.unrealengine.com/ue-horizontal-logo-cba14ebde1ea.svg?resize=1&w=440&quality=high' height=35/>        
 </div>
 
 <h3 align='center'>
   In Queue
 </h3>
-<div align='center' style='padding: 20'>
-  <img src='https://cdn.svgporn.com/logos/blender.svg' height=35/>  
+<div align='center' style='padding: 20'>    
+  <img src='https://cdn.svgporn.com/logos/react.svg' height=35/>  
   <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/angular.svg' height=35/>  
   <img src='' width=10 height=1/>
