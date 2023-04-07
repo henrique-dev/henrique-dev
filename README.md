@@ -51,6 +51,10 @@
   Frameworks
 </h3>
 <div align='center' style='padding: 20'>
+  <img src='https://cdn.svgporn.com/logos/nextjs.svg' height=35/>  
+  <img src='' width=10 height=1/>
+  <img src='https://cdn.svgporn.com/logos/react.svg' height=35/>  
+  <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/rails.svg' height=35/>      
   <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/flutter.svg' height=35/>
@@ -98,9 +102,7 @@
 <h3 align='center'>
   In Queue
 </h3>
-<div align='center' style='padding: 20'>    
-  <img src='https://cdn.svgporn.com/logos/react.svg' height=35/>  
-  <img src='' width=10 height=1/>
+<div align='center' style='padding: 20'>      
   <img src='https://cdn.svgporn.com/logos/angular.svg' height=35/>  
   <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/c-sharp.svg' height=35/>  
