@@ -26,7 +26,15 @@
 ---
 
 <h3 align='center'>
-  Favorite Editor
+  OS
+</h3>
+<div align='center'>
+  <img src='https://cdn.svgporn.com/logos/debian.svg' height=35/>
+</div>
+
+
+<h3 align='center'>
+  Editors
 </h3>
 <div align='center'>
   <img src='https://cdn.svgporn.com/logos/visual-studio-code.svg' height=35/>  
@@ -45,19 +53,24 @@
   <img src='https://cdn.svgporn.com/logos/ruby.svg' height=35/>
   <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/javascript.svg' height=35/>  
+  <img src='' width=10 height=1/>
+  <img src='https://cdn.svgporn.com/logos/typescript-icon.svg' height=35/>  
 </div>
 
+
 <h3 align='center'>
-  Frameworks
+  Frameworks/Platforms
 </h3>
 <div align='center' style='padding: 20'>
-  <img src='https://cdn.svgporn.com/logos/nextjs.svg' height=35/>  
+  <img src='https://cdn.svgporn.com/logos/nextjs-icon.svg' height=35/>  
   <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/react.svg' height=35/>  
   <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/rails.svg' height=35/>      
   <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/flutter.svg' height=35/>
+  <img src='' width=10 height=1/>
+  <img src='https://cdn.svgporn.com/logos/nodejs-icon.svg' height=35/>
 </div>
 
 <h3 align='center'>
@@ -79,13 +92,17 @@
   <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/docker-icon.svg' height=35/>   
   <img src='' width=10 height=1/>
-  <img src='https://cdn.svgporn.com/logos/github-octocat.svg' height=35/>   
+  <img src='https://cdn.svgporn.com/logos/github-octocat.svg' height=35/>
   <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/gitlab.svg' height=35/>
   <img src='' width=10 height=1/>
-  <img src='https://cdn.svgporn.com/logos/postman.svg' height=35/>
-  <img src='' width=10 height=1/>
   <img src='https://cdn.svgporn.com/logos/swagger.svg' height=35/>
+  <img src='' width=10 height=1/>
+  <img src='https://cdn.svgporn.com/logos/socket.io.svg' height=35/>
+  <img src='' width=10 height=1/>
+  <img src='https://cdn.svgporn.com/logos/sidekiq-icon.svg' height=35/>
+  <img src='' width=10 height=1/>
+  <img src='https://cdn.svgporn.com/logos/rabbitmq-icon.svg' height=35/>
 </div>
 
 ---
@@ -99,18 +116,6 @@
   <img src='https://cdn2.unrealengine.com/ue-horizontal-logo-cba14ebde1ea.svg?resize=1&w=440&quality=high' height=35/>        
 </div>
 
-<h3 align='center'>
-  In Queue
-</h3>
-<div align='center' style='padding: 20'>      
-  <img src='https://cdn.svgporn.com/logos/angular.svg' height=35/>  
-  <img src='' width=10 height=1/>
-  <img src='https://cdn.svgporn.com/logos/c-sharp.svg' height=35/>  
-  <img src='' width=10 height=1/>
-  <img src='https://cdn.svgporn.com/logos/vulkan.svg' height=35/>  
-  <img src='' width=10 height=1/>
-  <img src='https://cdn.svgporn.com/logos/spring.svg' height=35/>
-</div>
 <!--
 **henrique-dev/henrique-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
