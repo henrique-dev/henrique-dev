@@ -3,13 +3,17 @@
     Hi 👋, i'm Paulo Bacelar
   </h1>
 </div>
+
+<h3 align='center'>  
+  Software Developer  
+</h3>
+
 <h3 align='center'>
-  Computer Engineer
-  <img src='' width=10 height=1/>
   <a href="https://www.linkedin.com/in/henriq-dev/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a>  
 </h3>
+
 <p align='center'>
    Passionate about technology, computers and programming. One of my skills is my quick habituation with any work environment and language, because for me to program is to create, accept challenges and solve them. 
 </p>
